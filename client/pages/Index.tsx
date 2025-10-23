@@ -258,12 +258,9 @@ const Index = () => {
                 </Button>
               </Link>
               <Link to="/contact">
-                <Button
-                  variant="outline"
-                  className="px-8 h-12 text-base font-semibold border-primary text-primary hover:bg-primary/10 w-full sm:w-auto"
-                >
+                <button className="btn-3d w-full sm:w-auto">
                   Get in Touch
-                </Button>
+                </button>
               </Link>
             </div>
           </div>
