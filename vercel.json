@@ -10,7 +10,7 @@
       "NODE_ENV": "production"
     }
   },
-  "installCommand": "pnpm install && pnpm approve-builds",
+  "installCommand": "pnpm install",
   "buildCommand": "pnpm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist/spa"
 }
