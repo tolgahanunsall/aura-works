@@ -169,6 +169,7 @@
   }
 }
 
+/* CSS processed by PostCSS/Tailwind CSS - @apply directives are valid */
 @layer base {
   * {
     @apply border-border;
