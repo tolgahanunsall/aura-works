@@ -4,16 +4,13 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "installCommand": "pnpm install && pnpm approve-builds",
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist"
 }
-{
-    "build": {
-      "env": {
-        "NODE_ENV": "production"
-      }
-    },
-    "installCommand": "pnpm install && pnpm approve-builds",
-    "buildCommand": "pnpm run build",
-    "outputDirectory": "dist"
-  }
-  
