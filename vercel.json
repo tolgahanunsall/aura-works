@@ -6,3 +6,14 @@
     }
   ]
 }
+{
+    "build": {
+      "env": {
+        "NODE_ENV": "production"
+      }
+    },
+    "installCommand": "pnpm install && pnpm approve-builds",
+    "buildCommand": "pnpm run build",
+    "outputDirectory": "dist"
+  }
+  
