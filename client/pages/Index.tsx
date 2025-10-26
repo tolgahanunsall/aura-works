@@ -53,49 +53,48 @@ const Index = () => {
               <div className="inline-flex items-center gap-2 px-4 py-2 bg-accent/20 rounded-full w-fit">
                 <Sparkles className="w-4 h-4 text-primary" />
                 <span className="text-sm font-medium text-primary">
-                  Handcrafted Excellence
+                  El Yapımı Mükemmellik
                 </span>
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-                Artisanal Perfumes,{" "}
+                Kokumuz Farklı,{" "}
                 <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                  Made with Love
+                  Ama Kalbimiz 1
                 </span>
               </h1>
 
               <p className="text-lg text-foreground/70 max-w-lg">
-                Discover our exclusive collection of handcrafted perfumes created
-                with passion and care. Each bottle tells a story of dedication,
-                quality, and artistic expression.
+                Tutku ve özenle yaratılmış el yapımı parfüm koleksiyonumuzu keşfedin.
+                Her şişe, adanmışlık, kalite ve sanatsal ifadenin hikayesini anlatır.
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
                 <Link to="/products">
                   <Button className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 h-12 text-base font-semibold gap-2 w-full sm:w-auto">
-                    Shop Now <ArrowRight className="w-5 h-5" />
+                    Alışverişe Başla <ArrowRight className="w-5 h-5" />
                   </Button>
                 </Link>
                 <Button
                   variant="outline"
                   className="px-8 h-12 text-base font-semibold border-primary text-primary hover:bg-primary/10 w-full sm:w-auto"
                 >
-                  Learn More
+                  Daha Fazla Bilgi
                 </Button>
               </div>
 
               <div className="grid grid-cols-3 gap-6 pt-8">
                 <div>
                   <div className="text-2xl font-bold text-primary">100%</div>
-                  <p className="text-sm text-foreground/60">Handmade</p>
+                  <p className="text-sm text-foreground/60">El Yapımı</p>
                 </div>
                 <div>
-                  <div className="text-2xl font-bold text-primary">Natural</div>
-                  <p className="text-sm text-foreground/60">Ingredients</p>
+                  <div className="text-2xl font-bold text-primary">Doğal</div>
+                  <p className="text-sm text-foreground/60">İçerikler</p>
                 </div>
                 <div>
                   <div className="text-2xl font-bold text-primary">✓</div>
-                  <p className="text-sm text-foreground/60">Eco-Friendly</p>
+                  <p className="text-sm text-foreground/60">Çevre Dostu</p>
                 </div>
               </div>
             </div>
@@ -106,8 +105,8 @@ const Index = () => {
               <div className="relative h-full bg-gradient-to-br from-primary/40 to-accent/40 rounded-3xl border border-primary/20 flex items-center justify-center overflow-hidden">
                 <div className="space-y-4 text-center text-white">
                   <Heart className="w-24 h-24 mx-auto animate-pulse" />
-                  <p className="text-lg font-semibold">Premium Fragrances</p>
-                  <p className="text-sm opacity-90">Crafted for You</p>
+                  <p className="text-lg font-semibold">Premium Kokular</p>
+                  <p className="text-sm opacity-90">Sizin İçin Üretildi</p>
                 </div>
               </div>
             </div>
@@ -122,15 +121,15 @@ const Index = () => {
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-secondary/20 rounded-full mb-4">
               <Palette className="w-4 h-4 text-secondary" />
               <span className="text-sm font-medium text-secondary">
-                Our Collection
+                Koleksiyonumuz
               </span>
             </div>
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              Featured Fragrances
+              Öne Çıkan Kokular
             </h2>
             <p className="text-lg text-foreground/60 max-w-2xl mx-auto">
-              Explore our handpicked selection of signature perfumes, each
-              carefully crafted to deliver a unique sensory experience.
+              Özenle seçilmiş imza parfümlerimizi keşfedin, her biri eşsiz
+              bir duyusal deneyim sunmak için özenle üretildi.
             </p>
           </div>
 
@@ -146,7 +145,7 @@ const Index = () => {
                 >
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-300 flex items-center justify-center">
                     <Button className="opacity-0 group-hover:opacity-100 bg-primary hover:bg-primary/90 transition-all duration-300 text-white gap-2">
-                      View <ArrowRight className="w-4 h-4" />
+                      İncele <ArrowRight className="w-4 h-4" />
                     </Button>
                   </div>
                 </div>
@@ -169,7 +168,7 @@ const Index = () => {
                       size="sm"
                       className="bg-accent hover:bg-accent/90 text-accent-foreground"
                     >
-                      Add to Cart
+                      Sepete Ekle
                     </Button>
                   </div>
                 </div>
@@ -183,7 +182,7 @@ const Index = () => {
                 variant="outline"
                 className="border-primary text-primary hover:bg-primary/10 px-8 h-12 text-base font-semibold gap-2"
               >
-                View All Products <ArrowRight className="w-5 h-5" />
+                Tüm Ürünleri Görüntüle <ArrowRight className="w-5 h-5" />
               </Button>
             </Link>
           </div>
@@ -194,7 +193,7 @@ const Index = () => {
       <section className="py-20 px-4 bg-slate-50 dark:bg-slate-900/50">
         <div className="container mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold text-center text-foreground mb-12">
-            Why Choose Us
+            Neden Bizi Seçmelisiniz
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -203,11 +202,11 @@ const Index = () => {
                 <Heart className="w-6 h-6 text-primary" />
               </div>
               <h3 className="text-xl font-bold text-foreground mb-3">
-                Handcrafted with Care
+                Özenle El Yapımı
               </h3>
               <p className="text-foreground/60">
-                Every bottle is carefully crafted by artisans dedicated to
-                creating exceptional fragrances.
+                Her şişe, olağanüstü kokular yaratmaya adanmış zanaatkarlar
+                tarafından özenle üretilir.
               </p>
             </div>
 
@@ -216,11 +215,11 @@ const Index = () => {
                 <Sparkles className="w-6 h-6 text-secondary" />
               </div>
               <h3 className="text-xl font-bold text-foreground mb-3">
-                Premium Ingredients
+                Premium İçerikler
               </h3>
               <p className="text-foreground/60">
-                We use only the finest natural ingredients sourced responsibly
-                from around the world.
+                Dünyanın dört bir yanından sorumlu bir şekilde temin edilen
+                en iyi doğal içerikleri kullanıyoruz.
               </p>
             </div>
 
@@ -229,11 +228,11 @@ const Index = () => {
                 <Palette className="w-6 h-6 text-accent" />
               </div>
               <h3 className="text-xl font-bold text-foreground mb-3">
-                Unique Designs
+                Benzersiz Tasarımlar
               </h3>
               <p className="text-foreground/60">
-                Each fragrance is a unique creation, blending artistry with
-                olfactory excellence.
+                Her koku, sanatsal ifade ile koku mükemmelliğini harmanlayan
+                benzersiz bir yaratımdır.
               </p>
             </div>
           </div>
@@ -245,21 +244,21 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="bg-gradient-to-r from-primary/10 to-accent/10 border border-primary/20 rounded-3xl p-12 text-center">
             <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-4">
-              Ready to Experience Excellence?
+              Mükemmelliği Deneyimlemeye Hazır mısınız?
             </h2>
             <p className="text-lg text-foreground/60 max-w-2xl mx-auto mb-8">
-              Join hundreds of fragrance enthusiasts who have discovered their
-              signature scent. Start your journey today.
+              İmza kokularını keşfetmiş yüzlerce koku tutkununa katılın.
+              Yolculuğunuza bugün başlayın.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link to="/products">
                 <Button className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 h-12 text-base font-semibold gap-2 w-full sm:w-auto">
-                  Browse Collection <ArrowRight className="w-5 h-5" />
+                  Koleksiyona Göz At <ArrowRight className="w-5 h-5" />
                 </Button>
               </Link>
               <Link to="/contact">
                 <button className="btn-3d w-full sm:w-auto">
-                  Get in Touch
+                  İletişime Geç
                 </button>
               </Link>
             </div>

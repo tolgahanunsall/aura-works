@@ -33,10 +33,10 @@ const Contact = () => {
       <section className="bg-gradient-to-br from-primary/5 to-accent/5 py-16 px-4">
         <div className="container mx-auto max-w-3xl text-center">
           <h1 className="text-4xl sm:text-5xl font-bold text-foreground mb-6">
-            Get in Touch
+            İletişime Geçin
           </h1>
           <p className="text-lg text-foreground/60">
-            Have questions? We'd love to hear from you. Reach out to us anytime.
+            Sorularınız mı var? Sizden haber almayı çok isteriz. Bize her zaman ulaşabilirsiniz.
           </p>
         </div>
       </section>
@@ -48,28 +48,28 @@ const Contact = () => {
             {/* Contact Info */}
             <div className="p-8 bg-card rounded-2xl border border-border">
               <Mail className="w-8 h-8 text-primary mb-4" />
-              <h3 className="text-xl font-bold text-foreground mb-2">Email</h3>
-              <p className="text-foreground/60 mb-2">hello@perfumeart.com</p>
+              <h3 className="text-xl font-bold text-foreground mb-2">E-posta</h3>
+              <p className="text-foreground/60 mb-2">tolgahan.unsal@icloud.com</p>
               <p className="text-sm text-foreground/50">
-                We typically respond within 24 hours
+                Genellikle 24 saat içinde yanıt veriyoruz
               </p>
             </div>
 
             <div className="p-8 bg-card rounded-2xl border border-border">
               <Phone className="w-8 h-8 text-secondary mb-4" />
-              <h3 className="text-xl font-bold text-foreground mb-2">Phone</h3>
-              <p className="text-foreground/60 mb-2">+1 (555) 123-4567</p>
+              <h3 className="text-xl font-bold text-foreground mb-2">Telefon</h3>
+              <p className="text-foreground/60 mb-2">+90 (536) 483-6699</p>
               <p className="text-sm text-foreground/50">
-                Mon-Fri, 9am-5pm EST
+                Pzt-Cuma, 09:00-17:00
               </p>
             </div>
 
             <div className="p-8 bg-card rounded-2xl border border-border">
               <MapPin className="w-8 h-8 text-accent mb-4" />
-              <h3 className="text-xl font-bold text-foreground mb-2">Visit Us</h3>
-              <p className="text-foreground/60 mb-2">123 Fragrance Lane</p>
+              <h3 className="text-xl font-bold text-foreground mb-2">Ziyaret Edin</h3>
+              <p className="text-foreground/60 mb-2">Koku Sokak No:123</p>
               <p className="text-sm text-foreground/50">
-                New York, NY 10001
+                İstanbul, Türkiye
               </p>
             </div>
           </div>
@@ -77,13 +77,13 @@ const Contact = () => {
           {/* Contact Form */}
           <div className="max-w-2xl mx-auto bg-card rounded-2xl border border-border p-8">
             <h2 className="text-2xl font-bold text-foreground mb-6">
-              Send us a Message
+              Bize Mesaj Gönderin
             </h2>
 
             {submitted && (
               <div className="mb-6 p-4 bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-lg">
                 <p className="text-green-800 dark:text-green-200 font-medium">
-                  ✓ Thank you! Your message has been sent successfully.
+                  ✓ Teşekkürler! Mesajınız başarıyla gönderildi.
                 </p>
               </div>
             )}
@@ -92,7 +92,7 @@ const Contact = () => {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                 <div>
                   <label className="block text-sm font-medium text-foreground mb-2">
-                    Full Name
+                    Ad Soyad
                   </label>
                   <input
                     type="text"
@@ -101,7 +101,7 @@ const Contact = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-2 rounded-lg border border-border bg-input text-foreground placeholder-foreground/40 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20"
-                    placeholder="John Doe"
+                    placeholder="Ahmet Yılmaz"
                   />
                 </div>
                 <div>
@@ -115,14 +115,14 @@ const Contact = () => {
                     onChange={handleChange}
                     required
                     className="w-full px-4 py-2 rounded-lg border border-border bg-input text-foreground placeholder-foreground/40 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20"
-                    placeholder="john@example.com"
+                    placeholder="ahmet@ornek.com"
                   />
                 </div>
               </div>
 
               <div>
                 <label className="block text-sm font-medium text-foreground mb-2">
-                  Subject
+                  Konu
                 </label>
                 <input
                   type="text"
@@ -131,13 +131,13 @@ const Contact = () => {
                   onChange={handleChange}
                   required
                   className="w-full px-4 py-2 rounded-lg border border-border bg-input text-foreground placeholder-foreground/40 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20"
-                  placeholder="How can we help?"
+                  placeholder="Nasıl yardımcı olabiliriz?"
                 />
               </div>
 
               <div>
                 <label className="block text-sm font-medium text-foreground mb-2">
-                  Message
+                  Mesaj
                 </label>
                 <textarea
                   name="message"
@@ -146,7 +146,7 @@ const Contact = () => {
                   required
                   rows={5}
                   className="w-full px-4 py-2 rounded-lg border border-border bg-input text-foreground placeholder-foreground/40 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 resize-none"
-                  placeholder="Tell us more about your inquiry..."
+                  placeholder="Bize sorgunuz hakkında daha fazla bilgi verin..."
                 />
               </div>
 
@@ -154,7 +154,7 @@ const Contact = () => {
                 type="submit"
                 className="w-full bg-primary hover:bg-primary/90 text-primary-foreground font-semibold py-3 gap-2 flex items-center justify-center"
               >
-                Send Message <Send className="w-4 h-4" />
+                Mesaj Gönder <Send className="w-4 h-4" />
               </Button>
             </form>
           </div>
@@ -162,7 +162,7 @@ const Contact = () => {
           {/* Social Links */}
           <div className="mt-16 text-center">
             <h3 className="text-xl font-bold text-foreground mb-6">
-              Follow Us on Social Media
+              Sosyal Medyada Takip Edin
             </h3>
             <div className="flex justify-center gap-6">
               <a
