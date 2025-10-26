@@ -1,0 +1,2431 @@
+[
+  {
+    "urun_adi": "SCORPION MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "ABERCROMBIE AND FITCH",
+    "orijinal_referans": "CLASSIC"
+  },
+  {
+    "urun_adi": "PHARM OUD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 24,
+    "marka": "ACQUA DI PARMA",
+    "orijinal_referans": "COLONIA OUD"
+  },
+  {
+    "urun_adi": "BLACK AMBRE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 28,
+    "marka": "AJMAL",
+    "orijinal_referans": "AMBERWOOD"
+  },
+  {
+    "urun_adi": "BLUE DESIRO",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "ALFRED DUNHILL",
+    "orijinal_referans": "DESIRE BLUE"
+  },
+  {
+    "urun_adi": "DESTINA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "ALFRED DUNHILL",
+    "orijinal_referans": "DESIRE FOR MEN"
+  },
+  {
+    "urun_adi": "INTERAMOR",
+    "kategori": "MAN",
+    "euro_fiyat": 32,
+    "marka": "AMOUAGE",
+    "orijinal_referans": "INTERLUDE"
+  },
+  {
+    "urun_adi": "ECHO MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "AMOUAGE",
+    "orijinal_referans": "REFLECTION"
+  },
+  {
+    "urun_adi": "PRIDE PREJUDICE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "AMOUAGE",
+    "orijinal_referans": "HONOUR"
+  },
+  {
+    "urun_adi": "ETHIC MAN DELUX",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "AMOUAGE",
+    "orijinal_referans": "EPIC"
+  },
+  {
+    "urun_adi": "HER GOLDEN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "ANTONIO BANDERAS",
+    "orijinal_referans": "HER GOLDEN SECRET"
+  },
+  {
+    "urun_adi": "ROI SEDAN",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "ANTONIO BANDERAS",
+    "orijinal_referans": "KING OF SEDUCTION"
+  },
+  {
+    "urun_adi": "DIASPORA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "ARMANI",
+    "orijinal_referans": "EMPORIO ARMANI DIAMONDS FOR MEN"
+  },
+  {
+    "urun_adi": "VAN WYCK",
+    "kategori": "UNISEX",
+    "euro_fiyat": 26,
+    "marka": "ARMANI",
+    "orijinal_referans": "MY WAY"
+  },
+  {
+    "urun_adi": "COYA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 23,
+    "marka": "ARMANI",
+    "orijinal_referans": "ACQUA DI GIOIA"
+  },
+  {
+    "urun_adi": "DESIRABLE",
+    "kategori": "MAN",
+    "euro_fiyat": 15,
+    "marka": "AZZARO",
+    "orijinal_referans": "WANTED"
+  },
+  {
+    "urun_adi": "MOST DESIRABLE",
+    "kategori": "MAN",
+    "euro_fiyat": 28,
+    "marka": "AZZARO",
+    "orijinal_referans": "THE MOST WANTED"
+  },
+  {
+    "urun_adi": "TOUCH BURB",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "BURBERRY",
+    "orijinal_referans": "TOUCH FOR MEN"
+  },
+  {
+    "urun_adi": "BURBLASS",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "BURBERRY",
+    "orijinal_referans": "BURBERRY CLASSIC"
+  },
+  {
+    "urun_adi": "GALLERY",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "BURBERRY",
+    "orijinal_referans": "LONDON"
+  },
+  {
+    "urun_adi": "AROMATIC BURBY",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "BURBERRY",
+    "orijinal_referans": "BURBERRY"
+  },
+  {
+    "urun_adi": "HERO",
+    "kategori": "MAN",
+    "euro_fiyat": 27,
+    "marka": "BURBERRY",
+    "orijinal_referans": "HERO"
+  },
+  {
+    "urun_adi": "SHE BEAT",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "BURBERRY",
+    "orijinal_referans": "THE BEAT"
+  },
+  {
+    "urun_adi": "BODYGUARD",
+    "kategori": "WOMAN",
+    "euro_fiyat": 18,
+    "marka": "BURBERRY",
+    "orijinal_referans": "BODY"
+  },
+  {
+    "urun_adi": "TOUCH WOMAN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "BURBERRY",
+    "orijinal_referans": "TOUCH"
+  },
+  {
+    "urun_adi": "SUNDAY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "BURBERRY",
+    "orijinal_referans": "WEEKEND"
+  },
+  {
+    "urun_adi": "PINK TREASURE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "BURBERRY",
+    "orijinal_referans": "HER ELIXIR DE PARFUM"
+  },
+  {
+    "urun_adi": "DIVINITY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 19,
+    "marka": "BURBERRY",
+    "orijinal_referans": "GODDESS"
+  },
+  {
+    "urun_adi": "FEMME TOUCH",
+    "kategori": "WOMAN",
+    "euro_fiyat": 20,
+    "marka": "BURBERRY",
+    "orijinal_referans": "HER"
+  },
+  {
+    "urun_adi": "MY BARBY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 12,
+    "marka": "BURBERRY",
+    "orijinal_referans": "My BURBERRY"
+  },
+  {
+    "urun_adi": "MIB WILLS",
+    "kategori": "MAN",
+    "euro_fiyat": 21,
+    "marka": "BVLGARI",
+    "orijinal_referans": "MAN IN BLACK"
+  },
+  {
+    "urun_adi": "BROWN TIGERS EYE",
+    "kategori": "MAN",
+    "euro_fiyat": 39,
+    "marka": "BVLGARI",
+    "orijinal_referans": "LE GEMME TYGAR"
+  },
+  {
+    "urun_adi": "ADRIATIC SEA",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "BVLGARI",
+    "orijinal_referans": "AQUA"
+  },
+  {
+    "urun_adi": "CORAL BEACH",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "BVLGARI",
+    "orijinal_referans": "OMNIA CORAL BVLGARI"
+  },
+  {
+    "urun_adi": "BORIS AMBER",
+    "kategori": "UNISEX",
+    "euro_fiyat": 33,
+    "marka": "BVLGARI",
+    "orijinal_referans": "LE GEMME AMBERO"
+  },
+  {
+    "urun_adi": "GAME BLEU GYPSY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 29,
+    "marka": "BVLGARI",
+    "orijinal_referans": "GYAN LE GEMME"
+  },
+  {
+    "urun_adi": "IN TOXIC",
+    "kategori": "UNISEX",
+    "euro_fiyat": 15,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "INTOXICATED"
+  },
+  {
+    "urun_adi": "HONEY AND CIGAR",
+    "kategori": "UNISEX",
+    "euro_fiyat": 38,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "BACK TO BLACK APHRODISIAC"
+  },
+  {
+    "urun_adi": "ANGELS INTEREST",
+    "kategori": "UNISEX",
+    "euro_fiyat": 34,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "ANGELS SHARE"
+  },
+  {
+    "urun_adi": "BRANDY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "APPLE BRANDY ON THE ROCKS"
+  },
+  {
+    "urun_adi": "BLACK SHADOW",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "BLACK PHANTOM"
+  },
+  {
+    "urun_adi": "BE DARED",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "DONT BE SHY"
+  },
+  {
+    "urun_adi": "GOOD AND BAD",
+    "kategori": "WOMAN",
+    "euro_fiyat": 39,
+    "marka": "BY KILIAN",
+    "orijinal_referans": "GOOD GIRL GONE BAD"
+  },
+  {
+    "urun_adi": "AFRICA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "BYREDO",
+    "orijinal_referans": "BAL D AFRIQUE"
+  },
+  {
+    "urun_adi": "MOEHE GOST",
+    "kategori": "UNISEX",
+    "euro_fiyat": 21,
+    "marka": "BYREDO",
+    "orijinal_referans": "MOJAVE GHOST"
+  },
+  {
+    "urun_adi": "BIRON CIGAR CLEMENTINE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 28,
+    "marka": "BYREDO",
+    "orijinal_referans": "TOBACCO MANDARIN"
+  },
+  {
+    "urun_adi": "CANO",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "CACHAREL",
+    "orijinal_referans": "NOA"
+  },
+  {
+    "urun_adi": "LOVE LOVE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "CACHAREL",
+    "orijinal_referans": "AMOR AMOR"
+  },
+  {
+    "urun_adi": "UPBEAT",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "CALVIN KLEIN",
+    "orijinal_referans": "EUPHORIA"
+  },
+  {
+    "urun_adi": "C ONE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "CALVIN KLEIN",
+    "orijinal_referans": "CK ONE"
+  },
+  {
+    "urun_adi": "LADY INTUS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "CALVIN KLEIN",
+    "orijinal_referans": "CK IN2U"
+  },
+  {
+    "urun_adi": "ONTARIO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 12,
+    "marka": "CALVIN KLEIN",
+    "orijinal_referans": "C.K.ONE"
+  },
+  {
+    "urun_adi": "BAD GUY",
+    "kategori": "MAN",
+    "euro_fiyat": 20,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": "BAD BOY"
+  },
+  {
+    "urun_adi": "NEW YORK",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": " SE"
+  },
+  {
+    "urun_adi": "EXCLUSIVE BLACK",
+    "kategori": "MAN",
+    "euro_fiyat": 24,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": "212 VIP BLACK"
+  },
+  {
+    "urun_adi": "VIP MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 25,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": "212 VIP"
+  },
+  {
+    "urun_adi": "DUALITY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 21,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": "GOOD GIRL"
+  },
+  {
+    "urun_adi": "TWELVE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": 212
+  },
+  {
+    "urun_adi": "FEMME FATALE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "CAROLINA HERRERA",
+    "orijinal_referans": "212 SEXY"
+  },
+  {
+    "urun_adi": "NINO",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "CERRUTI",
+    "orijinal_referans": "1881 CERRUTI"
+  },
+  {
+    "urun_adi": "BLUE MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 42,
+    "marka": "CHANEL",
+    "orijinal_referans": "BLEU DE CHANEL"
+  },
+  {
+    "urun_adi": "EGO CHANEL",
+    "kategori": "MAN",
+    "euro_fiyat": 21,
+    "marka": "CHANEL",
+    "orijinal_referans": "EGOISTE"
+  },
+  {
+    "urun_adi": "ALLURE SPORT",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "CHANEL",
+    "orijinal_referans": "ALLURE SPORT"
+  },
+  {
+    "urun_adi": "COCOCHA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "CHANEL",
+    "orijinal_referans": "COCO"
+  },
+  {
+    "urun_adi": "MISS COCO",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "CHANEL",
+    "orijinal_referans": "COCO MADEMOISELLE"
+  },
+  {
+    "urun_adi": "CHANCE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "CHANEL",
+    "orijinal_referans": "CHANCE"
+  },
+  {
+    "urun_adi": "COLONIAL INTRO",
+    "kategori": "WOMAN",
+    "euro_fiyat": 20,
+    "marka": "CHANEL",
+    "orijinal_referans": "COCO MADEMOISELLE INTENSE"
+  },
+  {
+    "urun_adi": "CLOVE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "CHLOE",
+    "orijinal_referans": "LOVE CHLOE"
+  },
+  {
+    "urun_adi": "NOMADIC",
+    "kategori": "WOMAN",
+    "euro_fiyat": 23,
+    "marka": "CHLOE",
+    "orijinal_referans": "NOMADE"
+  },
+  {
+    "urun_adi": "SWEET CLOE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "CHLOE",
+    "orijinal_referans": "CHLOE EAU DE PARFUM"
+  },
+  {
+    "urun_adi": "LOVERS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "CHLOE",
+    "orijinal_referans": "LOVE STORY"
+  },
+  {
+    "urun_adi": "I LIKE CHOPIN",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "CHOPARD",
+    "orijinal_referans": "OUD MALAKI"
+  },
+  {
+    "urun_adi": "WILDER",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "SAUVAGE"
+  },
+  {
+    "urun_adi": "WILDER ELIXIR",
+    "kategori": "MAN",
+    "euro_fiyat": 25,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "SAUVAGE ELIXIR"
+  },
+  {
+    "urun_adi": "WORK OUT",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "DIOR HOMME SPORT"
+  },
+  {
+    "urun_adi": "CELSIUS",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "FAHRENHEIT"
+  },
+  {
+    "urun_adi": "WILD MYSTERY",
+    "kategori": "MAN",
+    "euro_fiyat": 41,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "DIOR SAUVAGE EDP"
+  },
+  {
+    "urun_adi": "INTENSE HOMME",
+    "kategori": "MAN",
+    "euro_fiyat": 18,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "DIOR HOMME INTENSE"
+  },
+  {
+    "urun_adi": "ARGENBOIS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 28,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "BOIS D ARGENT"
+  },
+  {
+    "urun_adi": "MISS DARLING",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "MISS DIOR CHERIE"
+  },
+  {
+    "urun_adi": "MISS LOVE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "MISS DIOR EAU DE PARFUM"
+  },
+  {
+    "urun_adi": "ADDICTION",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "ADDICT"
+  },
+  {
+    "urun_adi": "DIO LE PARFUM",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "MISS DIOR LE PARFUM"
+  },
+  {
+    "urun_adi": "DOSE GIRL",
+    "kategori": "WOMAN",
+    "euro_fiyat": 20,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "POISON GIRL"
+  },
+  {
+    "urun_adi": "STRONG POTION",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "PURE POISON"
+  },
+  {
+    "urun_adi": "HYPER",
+    "kategori": "WOMAN",
+    "euro_fiyat": 34,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "HYPNOTIC POISON"
+  },
+  {
+    "urun_adi": "ADORIA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "J ADORE"
+  },
+  {
+    "urun_adi": "MISS DIANA BOOM",
+    "kategori": "UNISEX",
+    "euro_fiyat": 15,
+    "marka": "CHRISTIAN DIOR",
+    "orijinal_referans": "MISS DIOR BLOOMING BOUQUET"
+  },
+  {
+    "urun_adi": "MYSTERY HOMME",
+    "kategori": "MAN",
+    "euro_fiyat": 50,
+    "marka": "CLIVE CHRISTIAN",
+    "orijinal_referans": "X"
+  },
+  {
+    "urun_adi": "CIRCA BOLD AMBER",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "CLIVE CHRISTIAN",
+    "orijinal_referans": "BLONDE AMBER"
+  },
+  {
+    "urun_adi": "SILVER",
+    "kategori": "MAN",
+    "euro_fiyat": 39,
+    "marka": "CREED",
+    "orijinal_referans": "SILVER MOUNTAIN WATER"
+  },
+  {
+    "urun_adi": "AVENTADOR",
+    "kategori": "MAN",
+    "euro_fiyat": 42,
+    "marka": "CREED",
+    "orijinal_referans": "AVENTUS"
+  },
+  {
+    "urun_adi": "ISLAND AQUA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 19,
+    "marka": "CREED",
+    "orijinal_referans": "VIRGIN ISLAND WATER"
+  },
+  {
+    "urun_adi": "CRUSH AVRIL ABS DELUX",
+    "kategori": "UNISEX",
+    "euro_fiyat": 30,
+    "marka": "CREED",
+    "orijinal_referans": "AVENTUS ABSOLU"
+  },
+  {
+    "urun_adi": "CRUSH MILES ROYAL",
+    "kategori": "MAN",
+    "euro_fiyat": 25,
+    "marka": "CREED",
+    "orijinal_referans": "IMPERIAL MILLESIME"
+  },
+  {
+    "urun_adi": "CRUSH LOVELY BLANC",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "CREED",
+    "orijinal_referans": "LOVE IN WHITE"
+  },
+  {
+    "urun_adi": "COOL MORNING",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "DAVIDOFF",
+    "orijinal_referans": "COOL WATER"
+  },
+  {
+    "urun_adi": "DENMARK FURY MAN",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "DIESEL",
+    "orijinal_referans": "FUEL FOR LIFE FOR MEN"
+  },
+  {
+    "urun_adi": "DOLPHIN ZEBRA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "DOLCE & GABBANA",
+    "orijinal_referans": "BY MAN (ZEBRA)"
+  },
+  {
+    "urun_adi": "LIVE BLUE FIRE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "DOLCE & GABBANA",
+    "orijinal_referans": "LIGHT BLUE FOREVER HOMME"
+  },
+  {
+    "urun_adi": "BLUE KING",
+    "kategori": "MAN",
+    "euro_fiyat": 23,
+    "marka": "DOLCE GABBANA",
+    "orijinal_referans": "K BY DOLCE GABBANA"
+  },
+  {
+    "urun_adi": "AZURRINO",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "DOLCE GABBANA",
+    "orijinal_referans": "LIGHT BLUE"
+  },
+  {
+    "urun_adi": "ONE MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "DOLCE GABBANA",
+    "orijinal_referans": "THE ONE"
+  },
+  {
+    "urun_adi": "VELVED OUD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 16,
+    "marka": "DOLCE GABBANA",
+    "orijinal_referans": "VELVET DESERT OUD"
+  },
+  {
+    "urun_adi": "LADY D",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "DOLCE GABBANA",
+    "orijinal_referans": "POUR FEMME"
+  },
+  {
+    "urun_adi": "TEMPTING POWER",
+    "kategori": "MAN",
+    "euro_fiyat": 21,
+    "marka": "EMPORIO ARMANI",
+    "orijinal_referans": "STRONGER WITH YOU"
+  },
+  {
+    "urun_adi": "DEEP POWER",
+    "kategori": "MAN",
+    "euro_fiyat": 21,
+    "marka": "EMPORIO ARMANI",
+    "orijinal_referans": "STRONGER WITH YOU INTENSELY"
+  },
+  {
+    "urun_adi": "EMPOSO WOMAN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "EMPORIO ARMANI",
+    "orijinal_referans": "SHE"
+  },
+  {
+    "urun_adi": "ABSOLUTELY STRONG MEN",
+    "kategori": "MAN",
+    "euro_fiyat": 29,
+    "marka": "EMPORIO ARMANI ",
+    "orijinal_referans": "STRONGER WITH YOU ABSOLUTELY"
+  },
+  {
+    "urun_adi": "TICKLED",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "ESCADA",
+    "orijinal_referans": "SEXY GRAFFITI"
+  },
+  {
+    "urun_adi": "IMPERIAL ESSENCE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 63,
+    "marka": "ESSENTIAL PARFUMS",
+    "orijinal_referans": "BOIS IMPERIAL"
+  },
+  {
+    "urun_adi": "PURE WILD COTTON",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "ESTEE LAUDER",
+    "orijinal_referans": "PURE WHITE LINEN"
+  },
+  {
+    "urun_adi": "BROCARD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "ESTEE LAUDER",
+    "orijinal_referans": "BRONZE GODDESS"
+  },
+  {
+    "urun_adi": "FLORAL CHARM",
+    "kategori": "UNISEX",
+    "euro_fiyat": 21,
+    "marka": "EX NIHILO",
+    "orijinal_referans": "FLEUR NARCOTIQUE"
+  },
+  {
+    "urun_adi": "BACK TO BLACK",
+    "kategori": "MAN",
+    "euro_fiyat": 20,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "ARMANI CODE EAU DE TOILETTE 2023"
+  },
+  {
+    "urun_adi": "BLACK TUXEDO",
+    "kategori": "MAN",
+    "euro_fiyat": 18,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "BLACK CODE"
+  },
+  {
+    "urun_adi": "AQUAMAN",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "ACQUA DI GIO"
+  },
+  {
+    "urun_adi": "DEEP BLUE",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "ACQUA DI GIO PROFUMO"
+  },
+  {
+    "urun_adi": "PROFOUND",
+    "kategori": "MAN",
+    "euro_fiyat": 32,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "ACQUA DI GIO PROFONDO"
+  },
+  {
+    "urun_adi": "SIMARINTE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "SI EAU DE PARFUM INTENSE"
+  },
+  {
+    "urun_adi": "LITTLE BLACK DRESS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "ARMANI CODE"
+  },
+  {
+    "urun_adi": "SIMARINE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "SI"
+  },
+  {
+    "urun_adi": "FLAME PASSION",
+    "kategori": "WOMAN",
+    "euro_fiyat": 26,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "SI PASSIONE"
+  },
+  {
+    "urun_adi": "VAN WYCK INTRO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 23,
+    "marka": "GIORGIO ARMANI",
+    "orijinal_referans": "MY WAY INTENSE"
+  },
+  {
+    "urun_adi": "MARIN SENSE",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "ULTRAMARINE INSENSE"
+  },
+  {
+    "urun_adi": "GENTLE MODERN",
+    "kategori": "MAN",
+    "euro_fiyat": 23,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "GENTLEMAN"
+  },
+  {
+    "urun_adi": "EXTREME PEAK",
+    "kategori": "MAN",
+    "euro_fiyat": 18,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "PI EXTREME"
+  },
+  {
+    "urun_adi": "AMBIVALENT",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "ANGE OU DEMON"
+  },
+  {
+    "urun_adi": "VERY ABSOLUTE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "ABSOLUTELY IRRESISTIBLE"
+  },
+  {
+    "urun_adi": "RED LURE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 19,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "L INTERDIT EAU DE PARFUM ROUGE"
+  },
+  {
+    "urun_adi": "L INTERDIT",
+    "kategori": "WOMAN",
+    "euro_fiyat": 26,
+    "marka": "GIVENCHY",
+    "orijinal_referans": "L INTERDIT"
+  },
+  {
+    "urun_adi": "GUILTY MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 20,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUILTY"
+  },
+  {
+    "urun_adi": "PURE OUD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 14,
+    "marka": "GUCCI",
+    "orijinal_referans": "INTENSE OUD"
+  },
+  {
+    "urun_adi": "RICH OUD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 21,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUCCI OUD"
+  },
+  {
+    "urun_adi": "GUGU BLACK WOMAN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUILTY BLACK"
+  },
+  {
+    "urun_adi": "GARDENIA GLAM",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "GUCCI",
+    "orijinal_referans": "FLORA BY GUCCI GORGEOUS GARDENIA"
+  },
+  {
+    "urun_adi": "MEGUCC",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GUCCI",
+    "orijinal_referans": "ENVY ME"
+  },
+  {
+    "urun_adi": "GOLD RUSH",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GUCCI",
+    "orijinal_referans": "RUSH 2"
+  },
+  {
+    "urun_adi": "GOULETTE MAN IXIR",
+    "kategori": "UNISEX",
+    "euro_fiyat": 24,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUILTY ELIXIR HIM"
+  },
+  {
+    "urun_adi": "GARNITUR BLEU",
+    "kategori": "UNISEX",
+    "euro_fiyat": 12,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUCCI POUR HOMME II"
+  },
+  {
+    "urun_adi": "GOULETTE ABS MAN",
+    "kategori": "UNISEX",
+    "euro_fiyat": 30,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUCCI GUILTY ABSOLUTE POUR HOMME"
+  },
+  {
+    "urun_adi": "GOULETTE LIVE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 21,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUILTY LOVE EDITION POUR FEMME"
+  },
+  {
+    "urun_adi": "PRIMADONNA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 23,
+    "marka": "GUCCI",
+    "orijinal_referans": "GUCCI PREMIERE"
+  },
+  {
+    "urun_adi": "GOULETTE JASMINE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 15,
+    "marka": "GUCCI",
+    "orijinal_referans": "FLORA GORGEOUS JASMINE"
+  },
+  {
+    "urun_adi": "FLORIST MAGNOLIA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "GUCCI",
+    "orijinal_referans": "FLORA BY GUCCI GLAMOROUS MAGNOLIA"
+  },
+  {
+    "urun_adi": "HOMIAL",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "GUERLAIN",
+    "orijinal_referans": "L HOMME IDEAL"
+  },
+  {
+    "urun_adi": "MODERN ME",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "GUERLAIN",
+    "orijinal_referans": "MON GUERLAIN"
+  },
+  {
+    "urun_adi": "INTEREST",
+    "kategori": "UNISEX",
+    "euro_fiyat": 14,
+    "marka": "GUERLAIN",
+    "orijinal_referans": "INSOLENCE"
+  },
+  {
+    "urun_adi": "TIGER WOOD",
+    "kategori": "MAN",
+    "euro_fiyat": 15,
+    "marka": "HERMES",
+    "orijinal_referans": "TERRE D HERMES"
+  },
+  {
+    "urun_adi": "CHARISMATIC MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "HERMES",
+    "orijinal_referans": "H24 EDT"
+  },
+  {
+    "urun_adi": "NILE GARDEN",
+    "kategori": "UNISEX",
+    "euro_fiyat": 12,
+    "marka": "HERMES",
+    "orijinal_referans": "UN JARDIN SUR LE NIL"
+  },
+  {
+    "urun_adi": "MANAGER",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "BOSS BOTTLED INTENSE"
+  },
+  {
+    "urun_adi": "CHIEF ICE",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "ICED EDT"
+  },
+  {
+    "urun_adi": "CHIEF",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "BOSS BOTTLED"
+  },
+  {
+    "urun_adi": "THE ESSENCE",
+    "kategori": "MAN",
+    "euro_fiyat": 20,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "THE SCENT"
+  },
+  {
+    "urun_adi": "SEDUCTION",
+    "kategori": "WOMAN",
+    "euro_fiyat": 19,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "BOSS INTENSE"
+  },
+  {
+    "urun_adi": "BIG SALE IXIR",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "BOSS THE SCENT ELIXIR FOR HIM"
+  },
+  {
+    "urun_adi": "BOMBASTIC TRUMP",
+    "kategori": "UNISEX",
+    "euro_fiyat": 12,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "BOSS BOTTLED TRIUMPH ELIXIR"
+  },
+  {
+    "urun_adi": "ALINA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "HUGO BOSS",
+    "orijinal_referans": "BOSS ALIVE"
+  },
+  {
+    "urun_adi": "SIDE FORCE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 14,
+    "marka": "INITIO PARFUMS",
+    "orijinal_referans": "SIDE EFFECT"
+  },
+  {
+    "urun_adi": "GREATNESS OUD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 38,
+    "marka": "INITIO PARFUMS",
+    "orijinal_referans": "OUD FOR GREATNESS"
+  },
+  {
+    "urun_adi": "REHABILITATION",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "INITIO PARFUMS",
+    "orijinal_referans": "REHAB"
+  },
+  {
+    "urun_adi": "LODISSOM",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "ISSEY MIYAKE",
+    "orijinal_referans": "L EAU D ISSEY POUR HOMME"
+  },
+  {
+    "urun_adi": "LODISSA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 21,
+    "marka": "ISSEY MIYAKE",
+    "orijinal_referans": "L EAU D ISSEY"
+  },
+  {
+    "urun_adi": "LEPAUL ELIXIR",
+    "kategori": "MAN",
+    "euro_fiyat": 28,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "LE MALE ELIXIR"
+  },
+  {
+    "urun_adi": "NEW PAUL",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "LE MALE"
+  },
+  {
+    "urun_adi": "INTENSE POWER",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "ULTRA MALE MAN 2015"
+  },
+  {
+    "urun_adi": "DARING SENSE",
+    "kategori": "MAN",
+    "euro_fiyat": 21,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "SCANDAL POUR HOMME"
+  },
+  {
+    "urun_adi": "SEDUCTIVE AURA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "SCANDAL"
+  },
+  {
+    "urun_adi": "JAZZY PORTO",
+    "kategori": "WOMAN",
+    "euro_fiyat": 23,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "LE BEAU PARADISE GARDEN"
+  },
+  {
+    "urun_adi": "JAZZY LE PARFUM",
+    "kategori": "WOMAN",
+    "euro_fiyat": 30,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "LE MALE LE PARFUM MEN"
+  },
+  {
+    "urun_adi": "GOTIC INTRO",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "JEAN PAUL GAULTIER",
+    "orijinal_referans": "CLASSIQUE INTENSE"
+  },
+  {
+    "urun_adi": "SUNNY MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "JIL SANDER",
+    "orijinal_referans": "SUN"
+  },
+  {
+    "urun_adi": "JOIE SALINITY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "JO MALONE",
+    "orijinal_referans": "WOOD SAGE AND SEA SALT"
+  },
+  {
+    "urun_adi": "JOE MIROTONGA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "JO MALONE",
+    "orijinal_referans": "MYRRH & TONKA"
+  },
+  {
+    "urun_adi": "DOWNTOWN",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "JOOP",
+    "orijinal_referans": "JOOP HOMME"
+  },
+  {
+    "urun_adi": "MINIMALIST",
+    "kategori": "WOMAN",
+    "euro_fiyat": 32,
+    "marka": "JULIETTE HAS A GUN",
+    "orijinal_referans": "NOT A PERFUME"
+  },
+  {
+    "urun_adi": "KENDO",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "KENZO",
+    "orijinal_referans": "KENZO POUR HOMME"
+  },
+  {
+    "urun_adi": "FLOW",
+    "kategori": "WOMAN",
+    "euro_fiyat": 29,
+    "marka": "KENZO",
+    "orijinal_referans": "FLOWER"
+  },
+  {
+    "urun_adi": "OHA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 18,
+    "marka": "KENZO",
+    "orijinal_referans": "L EAU PAR"
+  },
+  {
+    "urun_adi": "KINSMAN MARINE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 22,
+    "marka": "KENZO",
+    "orijinal_referans": "HOMME MARINE"
+  },
+  {
+    "urun_adi": "FLEUR IXIR",
+    "kategori": "WOMAN",
+    "euro_fiyat": 16,
+    "marka": "KENZO",
+    "orijinal_referans": "FLOWER BY KENZO L'ELIXIR"
+  },
+  {
+    "urun_adi": "SABINA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "KENZO",
+    "orijinal_referans": "SUMMER BY KENDRA"
+  },
+  {
+    "urun_adi": "RED CROC",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "LACOSTE",
+    "orijinal_referans": "LACOSTE L.12.12 RED (ROUGE)"
+  },
+  {
+    "urun_adi": "LIMITED",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "LACOSTE",
+    "orijinal_referans": "L.12.12 LIMITED EDITION"
+  },
+  {
+    "urun_adi": "WHITE CROC",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "LACOSTE",
+    "orijinal_referans": "L12.12.WHITE BLANC"
+  },
+  {
+    "urun_adi": "SIEGFRIED",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "LACOSTE",
+    "orijinal_referans": "ESSENTIAL"
+  },
+  {
+    "urun_adi": "CROCMAN",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "LACOSTE",
+    "orijinal_referans": "LACOSTE POUR HOMME"
+  },
+  {
+    "urun_adi": "ALLIGATOR WOMAN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 21,
+    "marka": "LACOSTE",
+    "orijinal_referans": "LACOSTE POUR FEMME"
+  },
+  {
+    "urun_adi": "LARGO PRETTY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "LACOSTE",
+    "orijinal_referans": "LACOSTE TOUCH OF PINK"
+  },
+  {
+    "urun_adi": "MOONLIT ROSE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "LANCOME",
+    "orijinal_referans": "LA NUIT TRESOR"
+  },
+  {
+    "urun_adi": "MIRA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "LANCOME",
+    "orijinal_referans": "MIRACLE"
+  },
+  {
+    "urun_adi": "EPOS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "LANCOME",
+    "orijinal_referans": "POEME"
+  },
+  {
+    "urun_adi": "ICONE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 32,
+    "marka": "LANCOME",
+    "orijinal_referans": "IDOLE LE PARFUM"
+  },
+  {
+    "urun_adi": "NICE LIFE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 24,
+    "marka": "LANCOME",
+    "orijinal_referans": "LA VIE EST BELLE"
+  },
+  {
+    "urun_adi": "HYPNOTIC",
+    "kategori": "WOMAN",
+    "euro_fiyat": 20,
+    "marka": "LANCOME",
+    "orijinal_referans": "HYPNOSE"
+  },
+  {
+    "urun_adi": "RED BLOOM",
+    "kategori": "WOMAN",
+    "euro_fiyat": 22,
+    "marka": "LANCOME",
+    "orijinal_referans": "TRESOR"
+  },
+  {
+    "urun_adi": "SCANDAL",
+    "kategori": "WOMAN",
+    "euro_fiyat": 17,
+    "marka": "LANVIN",
+    "orijinal_referans": "ECLAT D ARPEGE"
+  },
+  {
+    "urun_adi": "KHAMRAH",
+    "kategori": "UNISEX",
+    "euro_fiyat": 12,
+    "marka": "LATTAFA",
+    "orijinal_referans": "KHAMRAH"
+  },
+  {
+    "urun_adi": "SANDAL MYTH",
+    "kategori": "UNISEX",
+    "euro_fiyat": 33,
+    "marka": "LE LABO",
+    "orijinal_referans": "SANTAL 33"
+  },
+  {
+    "urun_adi": "UNLIMITED",
+    "kategori": "MAN",
+    "euro_fiyat": 44,
+    "marka": "LOUIS VUITTON",
+    "orijinal_referans": "L IMMENSITE"
+  },
+  {
+    "urun_adi": "DREAM FANTASY",
+    "kategori": "MAN",
+    "euro_fiyat": 61,
+    "marka": "LOUIS VUITTON",
+    "orijinal_referans": "IMAGINATION"
+  },
+  {
+    "urun_adi": "SYMPHONY RUS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 16,
+    "marka": "LOUIS VUITTON",
+    "orijinal_referans": "SYMPHONY"
+  },
+  {
+    "urun_adi": "AFTERNOON ENERGY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 19,
+    "marka": "LOUIS VUITTON",
+    "orijinal_referans": "AFTERNOON SWIM"
+  },
+  {
+    "urun_adi": "PACIFIER DELUX",
+    "kategori": "UNISEX",
+    "euro_fiyat": 61,
+    "marka": "LOUIS VUITTON",
+    "orijinal_referans": "PACIFIC CHILL"
+  },
+  {
+    "urun_adi": "MIGELLI HOPDEDIX",
+    "kategori": "UNISEX",
+    "euro_fiyat": 45,
+    "marka": "MAISON CRIVELLI",
+    "orijinal_referans": "HIBISCUS MAHAJAD"
+  },
+  {
+    "urun_adi": "MAJESTIC NIGHT",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "MAISON FRANCIS KURKDIJAN",
+    "orijinal_referans": "GRAND SOIR"
+  },
+  {
+    "urun_adi": "RED CRYSTAL EXTRAIT",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "MAISON FRANCIS KURKDIJAN",
+    "orijinal_referans": "BACCARAT ROUGE 540 EXTRAIT DE PARFUM"
+  },
+  {
+    "urun_adi": "URBAN VIBE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 24,
+    "marka": "MAISON FRANCIS KURKDIJAN",
+    "orijinal_referans": 724
+  },
+  {
+    "urun_adi": "AQUA SERENITY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "MAISON FRANCIS KURKDIJAN",
+    "orijinal_referans": "AQUA CELESTIA"
+  },
+  {
+    "urun_adi": "KERKUK OUD MOOD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 19,
+    "marka": "MAISON FRANCIS KURKDJIAN",
+    "orijinal_referans": "OUD SATIN MOOD"
+  },
+  {
+    "urun_adi": "KERKUK GENIUS FLU SILVER",
+    "kategori": "UNISEX",
+    "euro_fiyat": 56,
+    "marka": "MAISON FRANCIS KURKDJIAN",
+    "orijinal_referans": "GENTLE FLUIDITY SILVER"
+  },
+  {
+    "urun_adi": "CEDAR BLEND",
+    "kategori": "UNISEX",
+    "euro_fiyat": 22,
+    "marka": "MANCERA",
+    "orijinal_referans": "CEDRAT BOISE"
+  },
+  {
+    "urun_adi": "INTENSE COLA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "MANCERA",
+    "orijinal_referans": "TONKA COLA"
+  },
+  {
+    "urun_adi": "ROUGE TOBACCO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 30,
+    "marka": "MANCERA",
+    "orijinal_referans": "RED TOBACCO"
+  },
+  {
+    "urun_adi": "UNIQUE LAND",
+    "kategori": "UNISEX",
+    "euro_fiyat": 33,
+    "marka": "MANCERA",
+    "orijinal_referans": "HINDU KUSH"
+  },
+  {
+    "urun_adi": "COCO VANILLE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "MANCERA",
+    "orijinal_referans": "COCO VANILLE"
+  },
+  {
+    "urun_adi": "SPLENDID DARKNESS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 53,
+    "marka": "MARC ANTOINE BARROIS",
+    "orijinal_referans": "GANYMEDE"
+  },
+  {
+    "urun_adi": "SPLENDID DARKNESS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 33,
+    "marka": "MARC ANTOINE BARROIS",
+    "orijinal_referans": "ERBA PURA EDP"
+  },
+  {
+    "urun_adi": "DECADENCY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "MARC JACOBS",
+    "orijinal_referans": "DECADENCE"
+  },
+  {
+    "urun_adi": "DAISY GIRL",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "MARC JACOBS",
+    "orijinal_referans": "DAISY(WHITE)"
+  },
+  {
+    "urun_adi": "MAMUTH ITALICA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 22,
+    "marka": "MEMO",
+    "orijinal_referans": "ITALIAN LEATHER"
+  },
+  {
+    "urun_adi": "MAMUTH IRA",
+    "kategori": "MAN",
+    "euro_fiyat": 37,
+    "marka": "MEMO",
+    "orijinal_referans": "IRISH LEATHER"
+  },
+  {
+    "urun_adi": "MAMUT SEA LEATHER",
+    "kategori": "UNISEX",
+    "euro_fiyat": 17,
+    "marka": "MEMO",
+    "orijinal_referans": "OCEAN LEATHER"
+  },
+  {
+    "urun_adi": "MAGICAL BLOOM",
+    "kategori": "UNISEX",
+    "euro_fiyat": 36,
+    "marka": "MEMO PARIS",
+    "orijinal_referans": "MARFA"
+  },
+  {
+    "urun_adi": "CUIR NOIR",
+    "kategori": "UNISEX",
+    "euro_fiyat": 58,
+    "marka": "MEMO PARIS",
+    "orijinal_referans": "AFRICAN LEATHER"
+  },
+  {
+    "urun_adi": "SENSUAL AMBRE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "MICHAEL KORS",
+    "orijinal_referans": "SEXY AMBER"
+  },
+  {
+    "urun_adi": "MOUNT EVEREST",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "MONT BLANC",
+    "orijinal_referans": "LEGEND"
+  },
+  {
+    "urun_adi": "BLACK AOUD",
+    "kategori": "MAN",
+    "euro_fiyat": 21,
+    "marka": "MONTALE",
+    "orijinal_referans": "BLACK AOUD"
+  },
+  {
+    "urun_adi": "TONKA OPULENCE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 39,
+    "marka": "MONTALE",
+    "orijinal_referans": "ARABIANS TONKA"
+  },
+  {
+    "urun_adi": "FULL OF STARS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "MONTALE",
+    "orijinal_referans": "STARRY NIGHT"
+  },
+  {
+    "urun_adi": "MONTCLAIR AOUDROSE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "MONTALE",
+    "orijinal_referans": "AOUD ROSES PETALS"
+  },
+  {
+    "urun_adi": "MORITANIA EXPO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "MONTBLACK",
+    "orijinal_referans": "EXPLORER"
+  },
+  {
+    "urun_adi": "TWEE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "MOSCHINO",
+    "orijinal_referans": "I LOVE LOVE CHEAP AND CHIC"
+  },
+  {
+    "urun_adi": "PINK NARCIST",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "NARCISO RODRIGUEZ",
+    "orijinal_referans": "PEMBE"
+  },
+  {
+    "urun_adi": "NARCISS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "NARCISO RODRIGUEZ",
+    "orijinal_referans": "NARCISO RODRIGUEZ FOR HER "
+  },
+  {
+    "urun_adi": "NIKITA ME",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "NARCISSO RODRIGUEZ",
+    "orijinal_referans": "ALL OF ME"
+  },
+  {
+    "urun_adi": "NARCISSISM PARFUMO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "NARCISSO RODRIGUEZ",
+    "orijinal_referans": "NARCISO"
+  },
+  {
+    "urun_adi": "NASA/ DARK AFGANI NEW",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "NASOMATTO",
+    "orijinal_referans": "BLACK AFGANO"
+  },
+  {
+    "urun_adi": "NIKO",
+    "kategori": "MAN",
+    "euro_fiyat": 15,
+    "marka": "NIKOS",
+    "orijinal_referans": "SCULPTURE POUR HOMME"
+  },
+  {
+    "urun_adi": "MOMENTUA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "NISHANE",
+    "orijinal_referans": "ANI EXTRAIT DE PARFUM"
+  },
+  {
+    "urun_adi": "SHADOW PLAY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "NISHANE",
+    "orijinal_referans": "HACIVAT EXTRAIT DE PARFUM"
+  },
+  {
+    "urun_adi": "SILENTS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "NISHANE",
+    "orijinal_referans": "HUNDRED SILENT WAYS"
+  },
+  {
+    "urun_adi": "SENSUAL GLARE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "ORTO PARISI",
+    "orijinal_referans": "SEMINALIS"
+  },
+  {
+    "urun_adi": "OPRAH MEGALOMAN",
+    "kategori": "UNISEX",
+    "euro_fiyat": 160,
+    "marka": "ORTO PARISI",
+    "orijinal_referans": "MEGAMARE"
+  },
+  {
+    "urun_adi": "LUCKY ONE",
+    "kategori": "MAN",
+    "euro_fiyat": 27,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "1 MILLION LUCKY"
+  },
+  {
+    "urun_adi": "PHANTOMIC",
+    "kategori": "MAN",
+    "euro_fiyat": 20,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "PHANTOM"
+  },
+  {
+    "urun_adi": "VICTORY DIAMOND",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "INVICTUS PLATINUM"
+  },
+  {
+    "urun_adi": "MENS SUCCESS",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "BLACK XS L EXCES"
+  },
+  {
+    "urun_adi": "PARABANE VICTORY",
+    "kategori": "MAN",
+    "euro_fiyat": 30,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "INVICTUS VICTORY"
+  },
+  {
+    "urun_adi": "ONE MAGIC",
+    "kategori": "MAN",
+    "euro_fiyat": 23,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "1 MILLION ELIXIR"
+  },
+  {
+    "urun_adi": "SUNGLAS",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "ULTRAVIOLET"
+  },
+  {
+    "urun_adi": "PARABANE",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "INVICTUS"
+  },
+  {
+    "urun_adi": "INVINCIBLE LEGEND",
+    "kategori": "MAN",
+    "euro_fiyat": 32,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "INVICTUS LEGEND"
+  },
+  {
+    "urun_adi": "JASI",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "BLACK XS"
+  },
+  {
+    "urun_adi": "OLYMPUS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 20,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "OLYMPEA"
+  },
+  {
+    "urun_adi": "VICEROY IXORA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 18,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "INVICTUS VICTORY ELIXIR"
+  },
+  {
+    "urun_adi": "INVENT AQUA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 24,
+    "marka": "PACO RABANNE",
+    "orijinal_referans": "INVICTUS AQUA"
+  },
+  {
+    "urun_adi": "WINGED MYTH",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "PEGASUS ROYAL"
+  },
+  {
+    "urun_adi": "SYNAPTIC MAZE",
+    "kategori": "MAN",
+    "euro_fiyat": 26,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "ALTHAIR"
+  },
+  {
+    "urun_adi": "ALADO",
+    "kategori": "MAN",
+    "euro_fiyat": 39,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "PEGASUS EXCLUSIF"
+  },
+  {
+    "urun_adi": "MAGNIFICENCE",
+    "kategori": "MAN",
+    "euro_fiyat": 26,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "HALTANE"
+  },
+  {
+    "urun_adi": "RED ORIENT",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "KALAN"
+  },
+  {
+    "urun_adi": "BEHIND MAGIC",
+    "kategori": "WOMAN",
+    "euro_fiyat": 32,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "VALAYA"
+  },
+  {
+    "urun_adi": "DELLA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 32,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "DELINA"
+  },
+  {
+    "urun_adi": "MARA LEILAND",
+    "kategori": "WOMAN",
+    "euro_fiyat": 26,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "LAYTON"
+  },
+  {
+    "urun_adi": "MARA PERA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 28,
+    "marka": "PARFUMS DE MARLY",
+    "orijinal_referans": "PERCIVAL"
+  },
+  {
+    "urun_adi": "PANTHERE SOHO DELUX",
+    "kategori": "MAN",
+    "euro_fiyat": 44,
+    "marka": "PENHALIGONS",
+    "orijinal_referans": "THE UNCOMPROMISING SOHAN"
+  },
+  {
+    "urun_adi": "PANTHERE TROYA",
+    "kategori": "MAN",
+    "euro_fiyat": 40,
+    "marka": "PENHALIGONS",
+    "orijinal_referans": " THE TRAGEDY OF LORD GEORGE"
+  },
+  {
+    "urun_adi": "PANTHERE LADY WHITE",
+    "kategori": "MAN",
+    "euro_fiyat": 45,
+    "marka": "PENHALIGONS",
+    "orijinal_referans": "THE REVENGE OF LADY BLANCHE"
+  },
+  {
+    "urun_adi": "PANTHERE YUKON",
+    "kategori": "MAN",
+    "euro_fiyat": 40,
+    "marka": "PENHALIGONS",
+    "orijinal_referans": "THE BEWITCHING YASMINE"
+  },
+  {
+    "urun_adi": "PANTHERE CONSTANTINOPOL",
+    "kategori": "MAN",
+    "euro_fiyat": 40,
+    "marka": "PENHALIGONS",
+    "orijinal_referans": "CHANGING CONSTANCE"
+  },
+  {
+    "urun_adi": "PINO SILVER",
+    "kategori": "MAN",
+    "euro_fiyat": 19,
+    "marka": "PINEAU",
+    "orijinal_referans": "SILVESTRE"
+  },
+  {
+    "urun_adi": "NAUTICAL",
+    "kategori": "MAN",
+    "euro_fiyat": 30,
+    "marka": "PRADA",
+    "orijinal_referans": "LUNA ROSSA OCEAN"
+  },
+  {
+    "urun_adi": "SUBTLE PARADOX",
+    "kategori": "WOMAN",
+    "euro_fiyat": 21,
+    "marka": "PRADA",
+    "orijinal_referans": "PARADOXE"
+  },
+  {
+    "urun_adi": "SUBTLE ABSOLUTE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 25,
+    "marka": "PRADA",
+    "orijinal_referans": "PARADOXE INTENSE"
+  },
+  {
+    "urun_adi": "RED MOON SPORT",
+    "kategori": "WOMAN",
+    "euro_fiyat": 38,
+    "marka": "PRADA",
+    "orijinal_referans": "LUNA ROSSA SPORT PRAGMATIC FOR MEN"
+  },
+  {
+    "urun_adi": "PRAGMATIC MAN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 27,
+    "marka": "PRADA",
+    "orijinal_referans": "PRADA AMBER POUR HOMME"
+  },
+  {
+    "urun_adi": "RED MOON CARTOON",
+    "kategori": "WOMAN",
+    "euro_fiyat": 28,
+    "marka": "PRADA",
+    "orijinal_referans": "LUNA ROSSA CARBON"
+  },
+  {
+    "urun_adi": "ROMAN",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "ROCHAS",
+    "orijinal_referans": "ROCHAS"
+  },
+  {
+    "urun_adi": "SENSUAL TRAIL",
+    "kategori": "UNISEX",
+    "euro_fiyat": 23,
+    "marka": "ROSENDO MATEU",
+    "orijinal_referans": "NO5 FLORAL AMBER SENSUAL MUSK"
+  },
+  {
+    "urun_adi": "SNIFF",
+    "kategori": "MAN",
+    "euro_fiyat": 12,
+    "marka": "SNOP",
+    "orijinal_referans": "SNOP"
+  },
+  {
+    "urun_adi": "SHL FURYLAND",
+    "kategori": "WOMAN",
+    "euro_fiyat": 22,
+    "marka": "STEPHANE HUMBERT LUCAS 77",
+    "orijinal_referans": "GOD OF FIRE"
+  },
+  {
+    "urun_adi": "ANGELINA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "THIERRY MUGLER",
+    "orijinal_referans": "ANGEL"
+  },
+  {
+    "urun_adi": "NEW MUGLAY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 21,
+    "marka": "THIERRY MUGLER",
+    "orijinal_referans": "ALIEN"
+  },
+  {
+    "urun_adi": "AFTER LOVE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 70,
+    "marka": "THOMAS KOSMALA",
+    "orijinal_referans": "APRES L AMOUR NO 4"
+  },
+  {
+    "urun_adi": "ENCHANTED ESSENCE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 32,
+    "marka": "TIZIANA TERENZI",
+    "orijinal_referans": "KIRKE"
+  },
+  {
+    "urun_adi": "ETERNAL BEAUTY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "TIZIANA TERENZI",
+    "orijinal_referans": "ANDROMEDA"
+  },
+  {
+    "urun_adi": "GUMINO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "TIZIANA TERENZI",
+    "orijinal_referans": "GUMIN"
+  },
+  {
+    "urun_adi": "TANZANIA ATLANTIQUE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 70,
+    "marka": "TIZIANA TERENZI",
+    "orijinal_referans": "ATLANTIDE"
+  },
+  {
+    "urun_adi": "TANZANIA TLC ABS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 33,
+    "marka": "TIZIANA TERENZI",
+    "orijinal_referans": "TYL ASSOLUTO"
+  },
+  {
+    "urun_adi": "DARK EXTREME",
+    "kategori": "MAN",
+    "euro_fiyat": 18,
+    "marka": "TOM FORD",
+    "orijinal_referans": "NOIR EXTREME"
+  },
+  {
+    "urun_adi": "PORTOFINO FLOWER",
+    "kategori": "UNISEX",
+    "euro_fiyat": 14,
+    "marka": "TOM FORD",
+    "orijinal_referans": "FLEUR DE PORTOFINO"
+  },
+  {
+    "urun_adi": "ROYAL BLACK",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "TOM FORD",
+    "orijinal_referans": "BLACK ORCHID"
+  },
+  {
+    "urun_adi": "ARBOR OUD",
+    "kategori": "UNISEX",
+    "euro_fiyat": 27,
+    "marka": "TOM FORD",
+    "orijinal_referans": "OUD WOOD"
+  },
+  {
+    "urun_adi": "OMBRE CUIR",
+    "kategori": "UNISEX",
+    "euro_fiyat": 19,
+    "marka": "TOM FORD",
+    "orijinal_referans": "OMBRE LEATHER (2018)"
+  },
+  {
+    "urun_adi": "SMOOKY LEATHER",
+    "kategori": "UNISEX",
+    "euro_fiyat": 15,
+    "marka": "TOM FORD",
+    "orijinal_referans": "TUSCAN LEATHER"
+  },
+  {
+    "urun_adi": "VANILLIC WINDS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 14,
+    "marka": "TOM FORD",
+    "orijinal_referans": "VANILLA SEX"
+  },
+  {
+    "urun_adi": "SWEET TOBACCO",
+    "kategori": "UNISEX",
+    "euro_fiyat": 13,
+    "marka": "TOM FORD",
+    "orijinal_referans": "TOBACCO VANILLA"
+  },
+  {
+    "urun_adi": "CHERRY LURE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "TOM FORD",
+    "orijinal_referans": "LOST CHERRY"
+  },
+  {
+    "urun_adi": "GORGEOUS VANILLA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 35,
+    "marka": "TOM FORD",
+    "orijinal_referans": "VANILLE FATALE"
+  },
+  {
+    "urun_adi": "NIGHT BY NIGHT",
+    "kategori": "UNISEX",
+    "euro_fiyat": 16,
+    "marka": "TOM FORD",
+    "orijinal_referans": "NOIR DE NOIR"
+  },
+  {
+    "urun_adi": "TAMPA OUD MIND",
+    "kategori": "UNISEX",
+    "euro_fiyat": 58,
+    "marka": "TOM FORD",
+    "orijinal_referans": "OUD MINERALE"
+  },
+  {
+    "urun_adi": "TAMPA EBONY DELUX",
+    "kategori": "UNISEX",
+    "euro_fiyat": 37,
+    "marka": "TOM FORD",
+    "orijinal_referans": "EBENE FUME"
+  },
+  {
+    "urun_adi": "TONY IMPULSE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 16,
+    "marka": "TOMMY HILFIGER",
+    "orijinal_referans": "IMPACT"
+  },
+  {
+    "urun_adi": "INFINITI MAN",
+    "kategori": "MAN",
+    "euro_fiyat": 37,
+    "marka": "VAKKO",
+    "orijinal_referans": "INFINITI"
+  },
+  {
+    "urun_adi": "VALET ROMA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 24,
+    "marka": "VALENTINO",
+    "orijinal_referans": "UOMO BORN IN ROMA MEN"
+  },
+  {
+    "urun_adi": "VALERIA ROMA",
+    "kategori": "UNISEX",
+    "euro_fiyat": 20,
+    "marka": "VALENTINO",
+    "orijinal_referans": "BORN IN ROMA WOMEN"
+  },
+  {
+    "urun_adi": "EROS VERSA",
+    "kategori": "MAN",
+    "euro_fiyat": 14,
+    "marka": "VERSACE",
+    "orijinal_referans": "EROS"
+  },
+  {
+    "urun_adi": "BLUE JEANS",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "VERSACE",
+    "orijinal_referans": "BLUE JEANS"
+  },
+  {
+    "urun_adi": "EROS BLAZE",
+    "kategori": "MAN",
+    "euro_fiyat": 24,
+    "marka": "VERSACE",
+    "orijinal_referans": "EROS FLAME"
+  },
+  {
+    "urun_adi": "VICI",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "VERSACE",
+    "orijinal_referans": "VANITAS"
+  },
+  {
+    "urun_adi": "ENTICING",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "VERSACE",
+    "orijinal_referans": "BRIGHT CRYSTAL"
+  },
+  {
+    "urun_adi": "BLACK CRYSTAL",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "VERSACE",
+    "orijinal_referans": "CRYSTAL NOIR"
+  },
+  {
+    "urun_adi": "SECRET RENDEZVOUS",
+    "kategori": "WOMAN",
+    "euro_fiyat": 14,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "SECRET SCALDALOUS"
+  },
+  {
+    "urun_adi": "NIGHT BEAUTY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "VERY SEXY NIGHT"
+  },
+  {
+    "urun_adi": "NIGHT CALL",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "SEXY LITTLE THINGS NOIR TEASE"
+  },
+  {
+    "urun_adi": "SUMMER PARADISE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "BOMBSHELL PARADISE"
+  },
+  {
+    "urun_adi": "NAKED VANILLA",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "BARE VANILLA"
+  },
+  {
+    "urun_adi": "SECRET SUPRISE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 15,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "BOMBSHELL"
+  },
+  {
+    "urun_adi": "SWEET TREASURE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "VICTORIAS SECRET",
+    "orijinal_referans": "TEASE EAU DE PARFUM"
+  },
+  {
+    "urun_adi": "ANTIGUA GOLD",
+    "kategori": "WOMAN",
+    "euro_fiyat": 13,
+    "marka": "VICTORIA'S SECRET",
+    "orijinal_referans": "VICTORIA'S SECRET ANGEL GOLD"
+  },
+  {
+    "urun_adi": "VICTORBOMB",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "VIKTOR AND ROLF",
+    "orijinal_referans": "SPICEBOMB EXTREME"
+  },
+  {
+    "urun_adi": "FRESH BOMB",
+    "kategori": "MAN",
+    "euro_fiyat": 16,
+    "marka": "VIKTOR AND ROLF",
+    "orijinal_referans": "SPICEBOMB EAU FRAICHE"
+  },
+  {
+    "urun_adi": "BONBON",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "VIKTOR AND ROLF",
+    "orijinal_referans": "BONBON"
+  },
+  {
+    "urun_adi": "SPUNK",
+    "kategori": "WOMAN",
+    "euro_fiyat": 24,
+    "marka": "VIKTOR ROLF",
+    "orijinal_referans": "SPICEBOMB"
+  },
+  {
+    "urun_adi": "SPUNK NITE VISIT",
+    "kategori": "WOMAN",
+    "euro_fiyat": 18,
+    "marka": "VIKTOR ROLF",
+    "orijinal_referans": "SPICEBOMB NIGHT VISION"
+  },
+  {
+    "urun_adi": "NAXUS",
+    "kategori": "UNISEX",
+    "euro_fiyat": 21,
+    "marka": "XERJOFF",
+    "orijinal_referans": "XJ 1861 NAXOS"
+  },
+  {
+    "urun_adi": "ALEXANDRIAN DREAM",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "XERJOFF",
+    "orijinal_referans": "ALEXANDRIA II"
+  },
+  {
+    "urun_adi": "HIGH VOLLEY",
+    "kategori": "UNISEX",
+    "euro_fiyat": 21,
+    "marka": "XERJOFF",
+    "orijinal_referans": "TORINO 21"
+  },
+  {
+    "urun_adi": "X MORISSEY DELUX",
+    "kategori": "UNISEX",
+    "euro_fiyat": 44,
+    "marka": "XERJOFF",
+    "orijinal_referans": "MORE THAN WORDS"
+  },
+  {
+    "urun_adi": "X CASA CAPITONE",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "XERJOFF",
+    "orijinal_referans": "LA CAPITALE"
+  },
+  {
+    "urun_adi": "BLUE MEFISTO",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "XERJOFF CASAMORATI",
+    "orijinal_referans": "MEFISTO"
+  },
+  {
+    "urun_adi": "SWEET POTION",
+    "kategori": "WOMAN",
+    "euro_fiyat": 12,
+    "marka": "XERJOFF CASAMORATI",
+    "orijinal_referans": "LIRA"
+  },
+  {
+    "urun_adi": "LAMA NOCHE",
+    "kategori": "WOMAN",
+    "euro_fiyat": 20,
+    "marka": "YSL",
+    "orijinal_referans": "LA NUIT DE L'HOMME"
+  },
+  {
+    "urun_adi": "MIG 77 AGARWOOD",
+    "kategori": "WOMAN",
+    "euro_fiyat": 28,
+    "marka": "YSL",
+    "orijinal_referans": "M7 OUD ABSOLU"
+  },
+  {
+    "urun_adi": "EVIDENCE WOMAN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 22,
+    "marka": "YVES ROCHER",
+    "orijinal_referans": "COMME UNE EVIDENCE EAU DE PARFUM"
+  },
+  {
+    "urun_adi": "YEARS JASMIN TEN",
+    "kategori": "WOMAN",
+    "euro_fiyat": 26,
+    "marka": "YVES ROCHER",
+    "orijinal_referans": "TENDRE JASMIN"
+  },
+  {
+    "urun_adi": "YOUTH SPIRIT",
+    "kategori": "MAN",
+    "euro_fiyat": 17,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "Y"
+  },
+  {
+    "urun_adi": "KOUROS",
+    "kategori": "MAN",
+    "euro_fiyat": 13,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "KOUROS"
+  },
+  {
+    "urun_adi": "MINE SOUL PARFUM",
+    "kategori": "MAN",
+    "euro_fiyat": 29,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "MYSLF LE PARFUM"
+  },
+  {
+    "urun_adi": "SUMPTUOUS BOUQUET",
+    "kategori": "UNISEX",
+    "euro_fiyat": 25,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "SUPREME BOUQUET"
+  },
+  {
+    "urun_adi": "LIBERTY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 32,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "LIBRE"
+  },
+  {
+    "urun_adi": "DARK OPIUM",
+    "kategori": "WOMAN",
+    "euro_fiyat": 24,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "BLACK OPIUM"
+  },
+  {
+    "urun_adi": "DEEP LIBERTY",
+    "kategori": "WOMAN",
+    "euro_fiyat": 30,
+    "marka": "YVES SAINT LAURENT",
+    "orijinal_referans": "LIBRE INTENSE"
+  },
+  {
+    "urun_adi": "HIS SIDE",
+    "kategori": "MAN",
+    "euro_fiyat": 25,
+    "marka": "ZADIG VOLTAIRE",
+    "orijinal_referans": "THIS IS HIM"
+  },
+  {
+    "urun_adi": "SENSUAL PINK",
+    "kategori": "UNISEX",
+    "euro_fiyat": 18,
+    "marka": "ZARKOPERFUME",
+    "orijinal_referans": "PINK MOLECULE 090 09"
+  },
+  {
+    "urun_adi": "ARABIAN",
+    "kategori": "MAN",
+    "euro_fiyat": 15,
+    "marka": "",
+    "orijinal_referans": "OPULENT SHAIK CLASSIC NO 77"
+  }
+]
