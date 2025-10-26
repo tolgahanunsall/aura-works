@@ -26,25 +26,25 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
               to="/"
               className="text-sm font-medium text-foreground/70 hover:text-primary transition-colors"
             >
-              Home
+              Ana Sayfa
             </Link>
             <Link
               to="/products"
               className="text-sm font-medium text-foreground/70 hover:text-primary transition-colors"
             >
-              Products
+              Ürünler
             </Link>
             <Link
               to="/about"
               className="text-sm font-medium text-foreground/70 hover:text-primary transition-colors"
             >
-              About
+              Hakkımızda
             </Link>
             <Link
               to="/contact"
               className="px-4 py-2 text-sm font-medium bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors"
             >
-              Contact
+              İletişim
             </Link>
           </nav>
         </div>
@@ -67,16 +67,16 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
                 <span className="font-bold text-lg">PerfumeArt</span>
               </div>
               <p className="text-sm text-white/70">
-                Handcrafted perfumes made with love and care.
+                Sevgiyle ve özenle üretilmiş el yapımı parfümler.
               </p>
             </div>
 
             <div>
-              <h4 className="font-semibold mb-4 text-white">Quick Links</h4>
+              <h4 className="font-semibold mb-4 text-white">Hızlı Bağlantılar</h4>
               <ul className="space-y-2 text-sm text-white/70">
                 <li>
                   <Link to="/" className="hover:text-primary transition-colors">
-                    Home
+                    Ana Sayfa
                   </Link>
                 </li>
                 <li>
@@ -84,7 +84,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
                     to="/products"
                     className="hover:text-primary transition-colors"
                   >
-                    Products
+                    Ürünler
                   </Link>
                 </li>
                 <li>
@@ -92,7 +92,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
                     to="/about"
                     className="hover:text-primary transition-colors"
                   >
-                    About Us
+                    Hakkımızda
                   </Link>
                 </li>
                 <li>
@@ -100,16 +100,16 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
                     to="/contact"
                     className="hover:text-primary transition-colors"
                   >
-                    Contact
+                    İletişim
                   </Link>
                 </li>
               </ul>
             </div>
 
             <div>
-              <h4 className="font-semibold mb-4 text-white">Connect With Us</h4>
+              <h4 className="font-semibold mb-4 text-white">Bize Ulaşın</h4>
               <p className="text-sm text-white/70 mb-3">
-                Follow our Instagram for new designs and updates
+                Yeni tasarımlar ve güncellemeler için Instagram'ı takip edin
               </p>
               <a
                 href="https://instagram.com"
@@ -117,15 +117,14 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
                 rel="noopener noreferrer"
                 className="inline-block px-4 py-2 bg-gradient-to-r from-primary to-accent text-white rounded-lg text-sm font-medium hover:opacity-90 transition-opacity"
               >
-                Visit Instagram
+                Instagram'ı Ziyaret Et
               </a>
             </div>
           </div>
 
           <div className="border-t border-white/10 pt-8">
             <p className="text-center text-sm text-white/60">
-              © 2024 PerfumeArt. All rights reserved. Empowering artisans through
-              beautiful fragrances.
+              © 2024 PerfumeArt. Tüm hakları saklıdır. Güzel kokularla sanatçıları güçlendiriyoruz.
             </p>
           </div>
         </div>
