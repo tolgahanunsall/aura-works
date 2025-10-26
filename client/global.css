@@ -1,0 +1,198 @@
+/** @import must precede all other statements */
+@import url("https://fonts.googleapis.com/css2?family=Reckless+Neue:wght@400&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /**
+   * Tailwind CSS theme
+   * tailwind.config.ts expects the following color variables to be expressed as HSL values.
+   * A different format will require also updating the theme in tailwind.config.ts.
+  */
+  :root {
+    --background: 222 40% 11%;
+    --foreground: 0 0% 95%;
+
+    --card: 222 30% 13%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 222 30% 13%;
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 200 100% 42%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 25 95% 50%;
+    --secondary-foreground: 222 40% 11%;
+
+    --muted: 222 30% 30%;
+    --muted-foreground: 0 0% 60%;
+
+    --accent: 200 100% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 222 35% 25%;
+    --input: 222 35% 20%;
+    --ring: 200 100% 50%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 222 40% 11%;
+
+    --sidebar-foreground: 0 0% 95%;
+
+    --sidebar-primary: 200 100% 42%;
+
+    --sidebar-primary-foreground: 0 0% 100%;
+
+    --sidebar-accent: 25 95% 50%;
+
+    --sidebar-accent-foreground: 222 40% 11%;
+
+    --sidebar-border: 222 35% 25%;
+
+    --sidebar-ring: 200 100% 50%;
+  }
+
+  .dark {
+    --background: 222 40% 11%;
+    --foreground: 0 0% 95%;
+
+    --card: 222 30% 13%;
+    --card-foreground: 0 0% 95%;
+
+    --popover: 222 30% 13%;
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 200 100% 42%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 25 95% 50%;
+    --secondary-foreground: 222 40% 11%;
+
+    --muted: 222 30% 30%;
+    --muted-foreground: 0 0% 60%;
+
+    --accent: 200 100% 50%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 222 35% 25%;
+    --input: 222 35% 20%;
+    --ring: 200 100% 50%;
+
+    --sidebar-background: 222 40% 11%;
+    --sidebar-foreground: 0 0% 95%;
+    --sidebar-primary: 200 100% 42%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 25 95% 50%;
+    --sidebar-accent-foreground: 222 40% 11%;
+    --sidebar-border: 222 35% 25%;
+    --sidebar-ring: 200 100% 50%;
+  }
+}
+
+@layer components {
+  /* 3D Learn More Button */
+  .btn-3d {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 600;
+    color: #382b22;
+    text-transform: uppercase;
+    padding: 1.25em 2em;
+    background: #fff0f0;
+    border: 2px solid #b18597;
+    border-radius: 0.75em;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transition: background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1);
+  }
+
+  .btn-3d::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #f9c4d2;
+    border-radius: inherit;
+    -webkit-box-shadow: 0 0 0 2px #b18597, 0 0.625em 0 0 #ffe3e2;
+    box-shadow: 0 0 0 2px #b18597, 0 0.625em 0 0 #ffe3e2;
+    -webkit-transform: translate3d(0, 0.75em, -1em);
+    transform: translate3d(0, 0.75em, -1em);
+    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-transform 150ms cubic-bezier(0, 0, 0.58, 1), -webkit-box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+  }
+
+  .btn-3d:hover {
+    background: #ffe9e9;
+    -webkit-transform: translate(0, 0.25em);
+    transform: translate(0, 0.25em);
+  }
+
+  .btn-3d:hover::before {
+    -webkit-box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
+    box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
+    -webkit-transform: translate3d(0, 0.5em, -1em);
+    transform: translate3d(0, 0.5em, -1em);
+  }
+
+  .btn-3d:active {
+    background: #ffe9e9;
+    -webkit-transform: translate(0em, 0.75em);
+    transform: translate(0em, 0.75em);
+  }
+
+  .btn-3d:active::before {
+    -webkit-box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+    box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
+    -webkit-transform: translate3d(0, 0, -1em);
+    transform: translate3d(0, 0, -1em);
+  }
+}
+
+/* CSS processed by PostCSS/Tailwind CSS - @apply directives are valid */
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    background-image:
+      radial-gradient(circle at 19% 9%, rgba(11, 73, 106, 0.4) 0%, transparent 50%),
+      radial-gradient(circle at 98% 98%, rgba(244, 95, 21, 0.15) 0%, transparent 50%),
+      radial-gradient(circle at 93% 21%, rgba(9, 54, 78, 0.3) 0%, transparent 50%),
+      radial-gradient(circle at 6% 91%, rgba(9, 54, 78, 0.25) 0%, transparent 50%);
+    background-attachment: fixed;
+  }
+
+  :where(p, span, li, h1, h2, h3, h4, h5, h6, a, button, label, td, th) {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  pre,
+  code {
+    overflow-x: auto;
+    white-space: pre;
+  }
+}
