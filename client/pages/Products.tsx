@@ -1,7 +1,8 @@
 import { Layout } from "@/components/Layout";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, Heart } from "lucide-react";
+import { ArrowRight, Heart, Search } from "lucide-react";
 import productsData from "../../products_data.json";
+import { useState } from "react";
 
 interface Product {
   urun_adi: string;
@@ -13,10 +14,35 @@ interface Product {
 
 const Products = () => {
   const allProducts: Product[] = productsData;
+  const [selectedCategory, setSelectedCategory] = useState("all");
+  const [searchQuery, setSearchQuery] = useState("");
 
   const manProducts = allProducts.filter((p) => p.kategori === "MAN");
   const womanProducts = allProducts.filter((p) => p.kategori === "WOMAN");
   const unisexProducts = allProducts.filter((p) => p.kategori === "UNISEX");
+
+  const filterProducts = () => {
+    let filtered = allProducts;
+    
+    // Category filter
+    if (selectedCategory !== "all") {
+      filtered = filtered.filter((p) => p.kategori === selectedCategory.toUpperCase());
+    }
+    
+    // Search filter
+    if (searchQuery.trim()) {
+      const query = searchQuery.toLowerCase();
+      filtered = filtered.filter((p) => 
+        p.urun_adi.toLowerCase().includes(query) ||
+        p.marka.toLowerCase().includes(query) ||
+        p.orijinal_referans.toLowerCase().includes(query)
+      );
+    }
+    
+    return filtered;
+  };
+
+  const filteredProducts = filterProducts();
 
   const getGradient = (index: number) => {
     const gradients = [
@@ -92,48 +118,78 @@ const Products = () => {
         </div>
       </section>
 
-      {/* Products by Category */}
+      {/* Search and Filter */}
+      <section className="py-8 px-4 border-b border-border">
+        <div className="container mx-auto space-y-6">
+          {/* Search Bar */}
+          <div className="relative max-w-2xl mx-auto">
+            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-foreground/40" />
+            <input
+              type="text"
+              placeholder="Ürün adı, marka veya referans ara..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full pl-12 pr-4 py-3 rounded-lg border border-border bg-card text-foreground placeholder-foreground/40 focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition-all"
+            />
+          </div>
+
+          {/* Category Filter Tabs */}
+          <div className="flex flex-wrap justify-center gap-3">
+            <button
+              onClick={() => setSelectedCategory("all")}
+              className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
+                selectedCategory === "all"
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "bg-card text-foreground hover:bg-primary/10 border border-border"
+              }`}
+            >
+              Tüm Ürünler ({allProducts.length})
+            </button>
+            <button
+              onClick={() => setSelectedCategory("man")}
+              className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
+                selectedCategory === "man"
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "bg-card text-foreground hover:bg-primary/10 border border-border"
+              }`}
+            >
+              Man ({manProducts.length})
+            </button>
+            <button
+              onClick={() => setSelectedCategory("woman")}
+              className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
+                selectedCategory === "woman"
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "bg-card text-foreground hover:bg-primary/10 border border-border"
+              }`}
+            >
+              Woman ({womanProducts.length})
+            </button>
+            <button
+              onClick={() => setSelectedCategory("unisex")}
+              className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
+                selectedCategory === "unisex"
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "bg-card text-foreground hover:bg-primary/10 border border-border"
+              }`}
+            >
+              Unisex ({unisexProducts.length})
+            </button>
+          </div>
+        </div>
+      </section>
+
+      {/* Products Grid */}
       <section className="py-16 px-4">
-        <div className="container mx-auto space-y-20">
-          {/* Man Section */}
-          {manProducts.length > 0 && (
-            <div>
-              <div className="mb-8">
-                <h2 className="text-3xl font-bold text-foreground mb-2">Man</h2>
-                <div className="h-1 w-20 bg-primary rounded-full"></div>
-                <p className="text-foreground/60 mt-2">{manProducts.length} ürün</p>
-              </div>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                {manProducts.map((product, index) => renderProductCard(product, index))}
-              </div>
+        <div className="container mx-auto">
+          {filteredProducts.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+              {filteredProducts.map((product, index) => renderProductCard(product, index))}
             </div>
-          )}
-
-          {/* Woman Section */}
-          {womanProducts.length > 0 && (
-            <div>
-              <div className="mb-8">
-                <h2 className="text-3xl font-bold text-foreground mb-2">Woman</h2>
-                <div className="h-1 w-20 bg-primary rounded-full"></div>
-                <p className="text-foreground/60 mt-2">{womanProducts.length} ürün</p>
-              </div>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                {womanProducts.map((product, index) => renderProductCard(product, index))}
-              </div>
-            </div>
-          )}
-
-          {/* Unisex Section */}
-          {unisexProducts.length > 0 && (
-            <div>
-              <div className="mb-8">
-                <h2 className="text-3xl font-bold text-foreground mb-2">Unisex</h2>
-                <div className="h-1 w-20 bg-primary rounded-full"></div>
-                <p className="text-foreground/60 mt-2">{unisexProducts.length} ürün</p>
-              </div>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                {unisexProducts.map((product, index) => renderProductCard(product, index))}
-              </div>
+          ) : (
+            <div className="text-center py-20">
+              <p className="text-xl text-foreground/60 mb-2">Ürün bulunamadı</p>
+              <p className="text-foreground/40">Arama kriterlerinizi değiştirip tekrar deneyin</p>
             </div>
           )}
         </div>
