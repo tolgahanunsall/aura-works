@@ -7,39 +7,39 @@ const Index = () => {
   const featured = [
     {
       id: 1,
-      name: "Rose Garden",
-      description: "A delicate blend of pink roses and amber",
-      price: "$45",
+      name: "Gül Bahçesi",
+      description: "Pembe güller ve kehribarın narin karışımı",
+      price: "₺450",
       image:
         "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-      category: "Floral",
+      category: "Çiçeksi",
     },
     {
       id: 2,
-      name: "Vanilla Dream",
-      description: "Warm vanilla with hints of musk",
-      price: "$40",
+      name: "Vanilya Rüyası",
+      description: "Misk notalarıyla sıcak vanilya",
+      price: "₺400",
       image:
         "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-      category: "Sweet",
+      category: "Tatlı",
     },
     {
       id: 3,
-      name: "Ocean Breeze",
-      description: "Fresh citrus and oceanic notes",
-      price: "$48",
+      name: "Okyanus Esintisi",
+      description: "Taze narenciye ve okyanus notaları",
+      price: "₺480",
       image:
         "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-      category: "Fresh",
+      category: "Ferah",
     },
     {
       id: 4,
-      name: "Midnight Jasmine",
-      description: "Luxurious jasmine with woody undertones",
-      price: "$55",
+      name: "Gece Yasemini",
+      description: "Odunsu tonlarla lüks yasemin",
+      price: "₺550",
       image:
         "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-      category: "Oriental",
+      category: "Oryantal",
     },
   ];
 
