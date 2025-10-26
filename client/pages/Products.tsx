@@ -14,7 +14,7 @@ interface Product {
 
 const Products = () => {
   const allProducts: Product[] = productsData;
-  const [selectedCategory, setSelectedCategory] = useState("all");
+  const [selectedCategory, setSelectedCategory] = useState("woman");
   const [searchQuery, setSearchQuery] = useState("");
 
   const manProducts = allProducts.filter((p) => p.kategori === "MAN");
@@ -136,14 +136,14 @@ const Products = () => {
           {/* Category Filter Tabs */}
           <div className="flex flex-wrap justify-center gap-3">
             <button
-              onClick={() => setSelectedCategory("all")}
+              onClick={() => setSelectedCategory("woman")}
               className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
-                selectedCategory === "all"
+                selectedCategory === "woman"
                   ? "bg-primary text-primary-foreground shadow-md"
                   : "bg-card text-foreground hover:bg-primary/10 border border-border"
               }`}
             >
-              Tüm Ürünler ({allProducts.length})
+              Kadın ({womanProducts.length})
             </button>
             <button
               onClick={() => setSelectedCategory("man")}
@@ -153,17 +153,7 @@ const Products = () => {
                   : "bg-card text-foreground hover:bg-primary/10 border border-border"
               }`}
             >
-              Man ({manProducts.length})
-            </button>
-            <button
-              onClick={() => setSelectedCategory("woman")}
-              className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
-                selectedCategory === "woman"
-                  ? "bg-primary text-primary-foreground shadow-md"
-                  : "bg-card text-foreground hover:bg-primary/10 border border-border"
-              }`}
-            >
-              Woman ({womanProducts.length})
+              Erkek ({manProducts.length})
             </button>
             <button
               onClick={() => setSelectedCategory("unisex")}
@@ -174,6 +164,16 @@ const Products = () => {
               }`}
             >
               Unisex ({unisexProducts.length})
+            </button>
+            <button
+              onClick={() => setSelectedCategory("all")}
+              className={`px-6 py-2.5 rounded-lg font-semibold transition-all duration-200 ${
+                selectedCategory === "all"
+                  ? "bg-primary text-primary-foreground shadow-md"
+                  : "bg-card text-foreground hover:bg-primary/10 border border-border"
+              }`}
+            >
+              Tüm Ürünler ({allProducts.length})
             </button>
           </div>
         </div>
