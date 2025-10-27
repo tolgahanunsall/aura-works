@@ -13,9 +13,9 @@ export default {
       },
     },
     fontFamily: {
-      sans: ["Reckless Neue", "system-ui", "sans-serif"],
-      display: ["Reckless Neue", "system-ui", "sans-serif"],
-      mono: ["Reckless Neue", "monospace"],
+      sans: ["Manrope", "system-ui", "sans-serif"],
+      display: ["Manrope", "system-ui", "sans-serif"],
+      mono: ["Manrope", "monospace"],
     },
     extend: {
       colors: {
