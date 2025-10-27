@@ -1,7 +1,6 @@
 import { Layout } from "@/components/Layout";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Heart, Search } from "lucide-react";
-import productsData from "../../products_data.json";
 import { useState } from "react";
 
 interface Product {
@@ -11,6 +10,96 @@ interface Product {
   marka: string;
   orijinal_referans: string;
 }
+
+// *** EKLENMESİ GEREKEN productsData DİZİSİ BURADADIR ***
+const productsData: Product[] = [
+  {
+    urun_adi: "Gül ve Vanilya",
+    kategori: "WOMAN",
+    euro_fiyat: 49.90,
+    marka: "Esansia",
+    orijinal_referans: "Chanel Coco Mademoiselle Parfüm Muadili"
+  },
+  {
+    urun_adi: "Derin Deniz",
+    kategori: "MAN",
+    euro_fiyat: 54.50,
+    marka: "Aroma Art",
+    orijinal_referans: "Dior Sauvage Parfüm Muadili"
+  },
+  {
+    urun_adi: "Orman Fısıltısı",
+    kategori: "UNISEX",
+    euro_fiyat: 62.00,
+    marka: "Niche Scent",
+    orijinal_referans: "Tom Ford Oud Wood Parfüm Muadili"
+  },
+  {
+    urun_adi: "Beyaz Çiçek Bahçesi",
+    kategori: "WOMAN",
+    euro_fiyat: 47.90,
+    marka: "Esansia",
+    orijinal_referans: "Lancôme La Vie Est Belle Parfüm Muadili"
+  },
+  {
+    urun_adi: "Baharatlı Tütün",
+    kategori: "MAN",
+    euro_fiyat: 58.00,
+    marka: "Aroma Art",
+    orijinal_referans: "Maison Francis Kurkdjian Baccarat Rouge 540 Muadili"
+  },
+  {
+    urun_adi: "Misk ve Amber",
+    kategori: "UNISEX",
+    euro_fiyat: 69.50,
+    marka: "Niche Scent",
+    orijinal_referans: "Creed Aventus Parfüm Muadili"
+  },
+  {
+    urun_adi: "Şekerli Yasemin",
+    kategori: "WOMAN",
+    euro_fiyat: 51.00,
+    marka: "Femina",
+    orijinal_referans: "Yves Saint Laurent Black Opium Parfüm Muadili"
+  },
+  {
+    urun_adi: "Taze Narenciye",
+    kategori: "MAN",
+    euro_fiyat: 45.00,
+    marka: "Aqua Cool",
+    orijinal_referans: "Giorgio Armani Acqua Di Gio Parfüm Muadili"
+  },
+  {
+    urun_adi: "Sandal Ağacı",
+    kategori: "UNISEX",
+    euro_fiyat: 59.90,
+    marka: "Niche Scent",
+    orijinal_referans: "Le Labo Santal 33 Parfüm Muadili"
+  },
+  {
+    urun_adi: "Tropikal Meyve",
+    kategori: "WOMAN",
+    euro_fiyat: 53.50,
+    marka: "Esansia",
+    orijinal_referans: "Thierry Mugler Alien Parfüm Muadili"
+  },
+  {
+    urun_adi: "Yoğun Vetiver",
+    kategori: "MAN",
+    euro_fiyat: 61.50,
+    marka: "Aroma Art",
+    orijinal_referans: "Terre d'Hermès Parfüm Muadili"
+  },
+  {
+    urun_adi: "Pudra ve İris",
+    kategori: "WOMAN",
+    euro_fiyat: 48.00,
+    marka: "Femina",
+    orijinal_referans: "Dior J'adore Parfüm Muadili"
+  },
+];
+// *** productsData DİZİSİ SONU ***
+
 
 const Products = () => {
   const allProducts: Product[] = productsData;
